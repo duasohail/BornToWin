@@ -12,6 +12,7 @@
                         
                     
             <div class="col-md-4">
+            <div class="col-md-12">
                 <div class="col-md-12">
                     <div class="latest-post">
                             <img src="BORN_TO_WIN/<?php echo $row['image']; ?>"  class="img-responsive" alt="">
